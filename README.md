@@ -1,3 +1,5 @@
+<!--Banner-->
+![Yashodip Banner Image](./banner.png)
 <h1 align="center">Hi 👋, I'm Yashodip Jagtap</h1>
 <h3 align="center">Aspiring Software Engineer | Full Stack (MERN) | DSA & Advanced Java Enthusiast | Building Scalable Solutions 🚀</h3>
 
@@ -65,3 +67,7 @@
 
 ### 🎯 Keep Learning, Keep Growing 🚀
 Thanks for visiting my profile! Let's connect and build something amazing together. 💻✨
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
+</p>
