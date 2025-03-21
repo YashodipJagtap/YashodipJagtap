@@ -62,11 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashodipjagtap&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-### 📈 **GitHub Contribution Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashodipjagtap&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
 ### 🔥 **GitHub Streak**
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipjagtap&" alt="yashodipjagtap" /></p>
 
