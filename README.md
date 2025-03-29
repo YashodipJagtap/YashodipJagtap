@@ -65,6 +65,9 @@
 ### 🔥 **GitHub Streak**
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipjagtap&" alt="yashodipjagtap" /></p>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashodipJagtap&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&point=f8d847" width="100%"/>
+
 ---
 
 ### 🎯 Keep Learning, Keep Growing 🚀
