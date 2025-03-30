@@ -66,8 +66,24 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipjagtap&" alt="yashodipjagtap" /></p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashodipJagtap&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&point=f8d847" width="100%"/>
+<!-- Contribution Grid with Cyberpunk Theme -->
+<h2 align="center" style="
+  color: #ff00cc;
+  text-shadow: 0 0 10px #ff00cc;
+  margin: 30px 0;
+">CODE MATRIX</h2>
 
+<div align="center" style="
+  background: rgba(13, 17, 23, 0.8);
+  border: 1px solid #00ffcc;
+  border-radius: 15px;
+  padding: 20px;
+  width: 90%;
+  margin: 0 auto 50px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
+">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashodipJagtap&theme=react-dark&bg_color=0d1117&hide_border=true&line=00FFCC&point=FF00CC&area=true&color=00FFCC" width="100%"/>
+</div>
 ---
 
 ### 🎯 Keep Learning, Keep Growing 🚀
