@@ -63,7 +63,7 @@
 </p>
 
 ### 🔥 **GitHub Streak**
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipjagtap&" alt="yashodipjagtap" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodipjagtap" alt="yashodipjagtap" /></p>
 
 
 <!-- Contribution Grid with Cyberpunk Theme -->
